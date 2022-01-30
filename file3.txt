@@ -1,0 +1,5 @@
+
+❯ git commit -m "2nd commit"
+[master 6979e9c] 2nd commit
+ 2 files changed, 23 insertions(+)
+ create mode 100644 file2.txt

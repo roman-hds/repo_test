@@ -1,0 +1,15 @@
+ng added to commit but untracked files present (use "git add" to track)
+❯ gaa
+❯ git commit -m "1st commit"
+[master (root-commit) 5f77b0b] 1st commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file1.txt
+❯ gs
+On branch masterng added to commit but untracked files present (use "git add" to track)
+❯ gaa
+❯ git commit -m "1st commit"
+[master (root-commit) 5f77b0b] 1st commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file1.txt
+❯ gs
+On branch master

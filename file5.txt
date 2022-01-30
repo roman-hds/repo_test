@@ -1,0 +1,6 @@
+hanged, 7 insertions(+)
+ create mode 100644 file4.txt
+❯ gs
+On branch master
+nothing to commit, working tree clean
+  ╱  ~/study/repos/gi

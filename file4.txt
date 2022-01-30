@@ -1,0 +1,7 @@
+nothing added to commit but untracked files present (use "git add" to track)
+❯ gaa
+❯ git commit -m "3nd commit"
+[master 0f1c389] 3nd commit
+ 1 file changed, 5 insertions(+)
+ create mode 100644 file3.txt
+❯ gl

@@ -3,4 +3,4 @@ hanged, 7 insertions(+)
 ❯ gs
 On branch master
 nothing to commit, working tree clean
-  ╱  ~/study/repos/gi
+  ╱  ~/study/repos/gi bfa75cf 5f77b0b
